@@ -1,0 +1,58 @@
+[
+  {
+    "title": "E-Commerce Product Page",
+    "description": "An e-commerce platform built with MERN stack that allows users to browse products, add them to the cart, and checkout with Stripe integration.",
+    "link": "https://github.com/edenteshu/AASHWAY/tree/main/project2",
+    "imageUrl": "https://example.com/e-commerce.png",
+    "techStack": ["MongoDB", "Express", "React", "Node.js", "Stripe API"]
+  },
+  {
+    "title": "Task Management App",
+    "description": "A task management application to track your daily tasks and projects with features like reminders, deadlines, and priority settings.",
+    "link": "https://github.com/edenteshu/AASHWAY/tree/main/project1",
+    "imageUrl": "https://example.com/task-management.png",
+    "techStack": ["React", "Node.js", "Tailwind CSS", "Express", "MongoDB"]
+  },
+  {
+    "title": "Portfolio Website",
+    "description": "A personal portfolio website showcasing my work, skills, and contact information.Features a responsive design, smooth animations, and a blog section to share articles and insights Built with React and styled using Tailwind CSS.",
+    "link": "https://github.com/edenteshu/AASHWAY/tree/main/project3",
+    "imageUrl": "https://example.com/portfolio.png",
+    "techStack": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Tailwind CSS",
+      "React",
+      "JWT"
+    ]
+  },
+  {
+    "title": "Coffee Shop",
+    "description": "A modern coffee shop web application built using React, Tailwind CSS, Node.js, and MongoDB. Features include a responsive design, user authentication, menu display, order management, and a seamless checkout process.",
+    "link": "https://github.com/edenteshu/Coffeehouse",
+    "imageUrl": "https://example.com/coffee-shop.png",
+    "techStack": [
+      "React",
+      "Tailwind CSS",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "JWT"
+    ]
+  },
+  {
+    "title": "Netflix Clone",
+    "description": "A fully responsive Netflix clone built using React, tailwindcss, and TMDB API. It features movie listings and search functionality.Built to provide a seamless viewing experience with support for personalized profiles and content recommendations.",
+    "link": "https://github.com/edenteshu/Netflix-clone",
+    "imageUrl": "https://www.pngfind.com/mpng/iiTbTRm_netflix-png-template-netflix-transparent-png/",
+    "techStack": ["React", "Bootstrap", "MysQL", "TMDB API", "CSS"]
+  },
+  {
+    "title": "Apple Website Clone",
+    "description": "A visually stunning clone of the Apple website built using modern web technologies. Features include a responsive design, product showcase, smooth animations, and a cart system that mimics the look and feel of the original Apple site.",
+    "link": "https://github.com/edenteshu/AppleWebsite",
+    "imageUrl": "https://example.com/apple-website-clone.png",
+    "techStack": ["React", "CSS", "Bootstrap", "Node.js", "Express", "MysQL"]
+  }
+]

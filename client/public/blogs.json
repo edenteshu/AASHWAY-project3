@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Understanding React Hooks",
+    "content": "React hooks are functions that let you use state and other React features without writing a class. They were introduced in React 16.8. In this blog, we will explore the most commonly used hooks like useState, useEffect, and useContext.",
+    "author": "Eden Teshome",
+    "date": "2024-08-20T10:00:00Z",
+    "tags": ["React", "JavaScript", "Web Development"]
+  },
+  {
+    "title": "A Guide to Node.js Performance Optimization",
+    "content": "Node.js is powerful for backend development, but like any technology, performance can become an issue if not handled properly. In this guide, we will cover various techniques for optimizing Node.js applications including asynchronous coding, clustering, and proper error handling.",
+    "author": "Eden Teshome",
+    "date": "2024-08-15T14:00:00Z",
+    "tags": ["Node.js", "Backend", "Performance"]
+  },
+  {
+    "title": "Introduction to CSS Grid",
+    "content": "CSS Grid is a powerful 2-dimensional layout system available in CSS. It allows developers to create complex layouts on the web easily and consistently across browsers. This blog covers the basics of CSS Grid, including grid containers, grid items, and various properties that control layout.",
+    "author": "Eden Teshome",
+    "date": "2024-08-10T08:30:00Z",
+    "tags": ["CSS", "Web Design", "Frontend"]
+  },
+  {
+    "title": "Understanding Asynchronous JavaScript",
+    "content": "Asynchronous programming is an essential skill in modern JavaScript development. Understanding how promises, async/await, and callbacks work is crucial for handling data fetching, API requests, and other asynchronous tasks in JavaScript applications.",
+    "author": "Eden Teshome",
+    "date": "2024-08-05T16:45:00Z",
+    "tags": ["JavaScript", "Asynchronous", "Programming"]
+  },
+  {
+    "title": "Top 10 VS Code Extensions for Web Developers",
+    "content": "Visual Studio Code is a popular code editor among developers due to its flexibility and extensive list of extensions. In this blog post, we'll explore the top 10 extensions for web developers that can boost productivity and enhance the development experience.",
+    "author": "Eden Teshome",
+    "date": "2024-08-01T12:00:00Z",
+    "tags": ["VS Code", "Tools", "Productivity"]
+  },
+  {
+    "title": "Deploying a Full-Stack Application on Vercel",
+    "content": "Vercel is a platform for frontend frameworks and static sites, built to integrate with your headless content, commerce, or database. This guide walks you through deploying a full-stack application on Vercel, from setting up your project to configuring environment variables and connecting to a backend.",
+    "author": "Eden Teshome",
+    "date": "2024-07-28T09:15:00Z",
+    "tags": ["Deployment", "Full-Stack", "Vercel"]
+  }
+]
