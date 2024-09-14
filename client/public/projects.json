@@ -16,7 +16,7 @@
   {
     "title": "Portfolio Website",
     "description": "A personal portfolio website showcasing my work, skills, and contact information.Features a responsive design, smooth animations, and a blog section to share articles and insights Built with React and styled using Tailwind CSS.",
-    "link": "https://github.com/edenteshu/AASHWAY/tree/main/project3",
+    "link": "https://github.com/edenteshu/AASHWAY-project3",
     "imageUrl": "https://example.com/portfolio.png",
     "techStack": [
       "Node.js",
